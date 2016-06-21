@@ -1,0 +1,24 @@
+.square {
+	color: blue;
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	float: left;
+	outline: 1px solid;
+	outline-color: white;
+
+}
+
+.maindiv {
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+.buttondiv {
+	margin: 0 auto;
+	width: 100px;
+}
+button {
+	margin: 0 auto;
+}
