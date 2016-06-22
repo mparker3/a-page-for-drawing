@@ -1,0 +1,1 @@
+This is a simple etch-a-sketch, designed to help me learn how to construct a functioning webpage.
